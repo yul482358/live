@@ -93,3 +93,5 @@ http://111.20.33.70/PLTV/88888893/224/3221226205/index.m3u8
 http://111.20.33.70/PLTV/88888893/224/3221226218/index.m3u8
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://111.20.33.70/PLTV/88888893/224/3221226214/index.m3u8
+#EXTINF:-1,tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://epg.v1.mk/logo/newtv潮妈辣婆.png" group-title="数字频道",NEWTV潮妈辣婆
+http://192.168.2.113:35455/itv/2000000003000000018.m3u8
