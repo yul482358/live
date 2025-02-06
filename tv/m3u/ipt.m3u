@@ -1,0 +1,113 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz"
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1综合
+http://111.21.22.148/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6电影
+http://111.21.22.148/PLTV/88888893/224/3221226393/index.m3u8
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8电视剧
+http://111.21.22.148/PLTV/88888893/224/3221226391/index.m3u8
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11戏曲
+http://111.21.22.148/PLTV/88888893/224/3221226240/index.m3u8
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17农业农村
+http://111.21.22.148/PLTV/88888893/224/3221226198/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",陕西都市青春
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",陕西新闻资讯
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",陕西影视频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://111.20.33.70/PLTV/88888893/224/3221226201/index.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+http://111.20.33.70/PLTV/88888893/224/3221226222/index.m3u8
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://111.20.33.70/PLTV/88888893/224/3221225821/index.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://111.20.33.70/PLTV/88888893/224/3221226200/index.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
+http://111.20.33.70/PLTV/88888893/224/3221226217/index.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
+http://111.20.33.70/PLTV/88888893/224/3221226216/index.m3u8
+#EXTINF:-1, group-title="影视轮播",济公
+https://lunbo.freetv.top/yy/1355265814
+#EXTINF:-1, group-title="影视轮播",宰相刘罗锅
+https://lunbo.freetv.top/yy/1382745191
+#EXTINF:-1, group-title="影视轮播",血色浪漫
+https://lunbo.freetv.top/yy/1354926676
+#EXTINF:-1, group-title="影视轮播",福贵
+https://lunbo.freetv.top/yy/1354926537
+#EXTINF:-1, group-title="影视轮播",少年包青天
+https://lunbo.freetv.top/yy/38498680
+#EXTINF:-1, group-title="影视轮播",神探狄仁杰2
+https://lunbo.freetv.top/yy/1382828767
+#EXTINF:-1, group-title="影视轮播",举起手来-惊险抗日
+https://lunbo.freetv.top/yy/1382736877
+#EXTINF:-1, group-title="影视轮播",神探狄仁杰1
+https://lunbo.freetv.top/yy/1354930934
+#EXTINF:-1, group-title="影视轮播",笑傲江湖
+https://lunbo.freetv.top/yy/1354930909
+#EXTINF:-1, group-title="影视轮播",康熙王朝
+https://lunbo.freetv.top/yy/1382736818
+#EXTINF:-1, group-title="影视轮播",西游记后传
+https://lunbo.freetv.top/yy/1382736846
+#EXTINF:-1, group-title="影视轮播",西游记张卫健版
+https://lunbo.freetv.top/yy/1354936155
+#EXTINF:-1, group-title="影视轮播",寻秦记-穿越剧经典
+https://lunbo.freetv.top/yy/1382749900
+#EXTINF:-1, group-title="影视轮播",天道-9.2高分好剧
+https://lunbo.freetv.top/yy/1382735574
+#EXTINF:-1, group-title="影视轮播",父母爱情
+https://lunbo.freetv.top/yy/1354926650
+#EXTINF:-1, group-title="影视轮播",三国演义94年经典版
+https://lunbo.freetv.top/yy/1354936241
+#EXTINF:-1, group-title="影视轮播",少年包青天第三部
+https://lunbo.freetv.top/yy/1382736814
+#EXTINF:-1, group-title="影视轮播",我爱我家
+https://lunbo.freetv.top/yy/1382735557
+#EXTINF:-1, group-title="影视轮播",易中天品三国
+https://lunbo.freetv.top/yy/1354931498
+#EXTINF:-1, group-title="影视轮播",炊事班的故事II
+https://lunbo.freetv.top/yy/1382736885
+#EXTINF:-1, group-title="影视轮播",士兵突击
+https://lunbo.freetv.top/yy/1382828766
+#EXTINF:-1, group-title="影视轮播",法证先锋Ⅱ
+https://lunbo.freetv.top/yy/1354888736
+#EXTINF:-1, group-title="影视轮播",情满四合院
+https://lunbo.freetv.top/yy/1382736848
+#EXTINF:-1, group-title="影视轮播",魔幻手机
+https://lunbo.freetv.top/yy/1382735544
+#EXTINF:-1, group-title="影视轮播",伪装者
+https://lunbo.freetv.top/yy/1354936244
+#EXTINF:-1, group-title="影视轮播",大明王朝
+https://lunbo.freetv.top/yy/1382736879
+#EXTINF:-1, group-title="影视轮播",炊事班的故事
+https://lunbo.freetv.top/yy/1382749901
+#EXTINF:-1, group-title="影视轮播",金婚
+https://lunbo.freetv.top/yy/1382736832
+#EXTINF:-1, group-title="影视轮播",无敌县令
+https://lunbo.freetv.top/yy/1354932390
+#EXTINF:-1, group-title="影视轮播",黑冰
+https://lunbo.freetv.top/yy/1354932427
+#EXTINF:-1, group-title="影视轮播",大汉天子S1
+https://lunbo.freetv.top/yy/1382749902
+#EXTINF:-1, group-title="影视轮播",大汉天子S2
+https://lunbo.freetv.top/yy/1382736807
+#EXTINF:-1, group-title="影视轮播",大汉天子S3
+https://lunbo.freetv.top/yy/1382736810
+#EXTINF:-1, group-title="影视轮播",天下第一
+https://lunbo.freetv.top/yy/1382736838
+#EXTINF:-1, group-title="影视轮播",百家讲坛――之明太祖朱元璋
+https://lunbo.freetv.top/yy/1354936149
+#EXTINF:-1, group-title="影视轮播",忠烈杨家将
+https://lunbo.freetv.top/yy/1382749909
+#EXTINF:-1, group-title="影视轮播",仙剑奇侠传
+https://lunbo.freetv.top/yy/1382749903
+#EXTINF:-1, group-title="影视轮播",大时代
+https://lunbo.freetv.top/yy/1354930891
+#EXTINF:-1, group-title="影视轮播",聊斋志异S1
+https://lunbo.freetv.top/yy/1382736975
+#EXTINF:-1, group-title="影视轮播",法证先锋Ⅲ
+https://lunbo.freetv.top/yy/1382736802
+#EXTINF:-1, group-title="影视轮播",大汉贤后卫子夫
+https://lunbo.freetv.top/yy/1382735569
